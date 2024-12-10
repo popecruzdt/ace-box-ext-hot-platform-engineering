@@ -257,7 +257,6 @@
           -d '[
                 {
                   "schemaId":"app:dynatrace.gitlab.connector:connection",
-                  "schemaVersion":"1.0.2",
                   "scope":"environment",
                   "value": {
                     "name": "platform-engineering-gitlab",
